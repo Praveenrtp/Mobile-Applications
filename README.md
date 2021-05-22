@@ -1,2 +1,2 @@
 # Mobile-Applications
-In order to run thsi app you just need to click run button.
+In order to run this app you just need to click run button.
